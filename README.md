@@ -16,3 +16,14 @@ Resurse de pregătire pentru examenul de Bacalaureat la informatică, organizate
 - [Documentația proiectului](./docs/project-structure.md)
 
 Conținutul educațional este în curs de completare. Soluțiile și explicațiile ar trebui să fie clare, corecte și adaptate programei oficiale.
+
+## Rularea website-ului
+
+Din directorul rădăcină al proiectului, rulează:
+
+```bash
+cd website
+npm run dev
+```
+
+Deschide adresa locală afișată în terminal (de obicei http://localhost:5173). Pentru a opri serverul, apasă `Ctrl+C`.
