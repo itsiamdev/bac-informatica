@@ -5,3 +5,8 @@
 *.obj
 *.pdb
 *.ilk
+
+# Node.js and Vite
+node_modules/
+dist/
+*.tsbuildinfo

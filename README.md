@@ -1,20 +1,18 @@
-# BAC Informatica – Științele Naturii
+# BAC Informatică
 
-Resurse pentru pregătirea examenului de Bacalaureat la informatică, profilul Științe ale Naturii. Materialele sunt organizate pe teme și includ explicații, algoritmi și exemple în C++.
+Resurse de pregătire pentru examenul de Bacalaureat la informatică, organizate în funcție de profil.
 
-## Conținut
+## Profiluri
 
-- [Programa oficială](./00-programa-oficiala/README.md)
-- [Algoritmi și pseudocod](./01-algoritmi-si-pseudocod/README.md)
-- [Limbajul C++](./02-limbajul-cpp/README.md)
-- [Subprograme](./03-subprograme/README.md)
-- [Tipuri structurate de date](./04-tipuri-structurate-de-date/README.md)
-- [Fișiere text](./05-fisiere-text/README.md)
-- [Algoritmi elementari](./06-algoritmi-elementari/README.md)
-- [Probleme rezolvate](./07-probleme-rezolvate/README.md)
-- [Exerciții pentru antrenament](./08-exercitii-pentru-antrenament/README.md)
-- [Simulări de Bacalaureat](./09-simulare-bac/README.md)
-- [Resurse](./10-resurse/)
-- [Plan de învățare](./11-plan-de-invatare/README.md)
+- [Mate-Info](./mate-info/README.md) — algoritmi și teme specifice profilului matematică-informatică.
+- [Științe ale naturii](./stiinte-ale-naturii/README.md) — materiale pentru profilul Științe ale naturii.
 
-Materialele vor fi completate treptat. Contribuțiile cu explicații clare și soluții verificate sunt binevenite.
+## Alte resurse
+
+- [Website](./website/)
+- [Bibliografie și materiale](./resources/bibliografie.md)
+- [Linkuri utile](./resources/linkuri-utile.md)
+- [Formule și șabloane](./resources/formule-si-sabloane.md)
+- [Documentația proiectului](./docs/project-structure.md)
+
+Conținutul educațional este în curs de completare. Soluțiile și explicațiile ar trebui să fie clare, corecte și adaptate programei oficiale.
