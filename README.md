@@ -1,42 +1,20 @@
 # BAC Informatica – Științele Naturii
 
-**A collection of C++ algorithms, programming concepts and solutions for the Romanian Baccalaureate in Informatics – Natural Sciences profile.**
+Resurse pentru pregătirea examenului de Bacalaureat la informatică, profilul Științe ale Naturii. Materialele sunt organizate pe teme și includ explicații, algoritmi și exemple în C++.
 
-## About
+## Conținut
 
-This repository contains essential algorithms and programming techniques designed to help students prepare for the Romanian Informatics Baccalaureate exam.
+- [Programa oficială](./00-programa-oficiala/README.md)
+- [Algoritmi și pseudocod](./01-algoritmi-si-pseudocod/README.md)
+- [Limbajul C++](./02-limbajul-cpp/README.md)
+- [Subprograme](./03-subprograme/README.md)
+- [Tipuri structurate de date](./04-tipuri-structurate-de-date/README.md)
+- [Fișiere text](./05-fisiere-text/README.md)
+- [Algoritmi elementari](./06-algoritmi-elementari/README.md)
+- [Probleme rezolvate](./07-probleme-rezolvate/README.md)
+- [Exerciții pentru antrenament](./08-exercitii-pentru-antrenament/README.md)
+- [Simulări de Bacalaureat](./09-simulare-bac/README.md)
+- [Resurse](./10-resurse/)
+- [Plan de învățare](./11-plan-de-invatare/README.md)
 
-All implementations are written in C++ and organized by topic for easy learning and revision.
-
-## Topics
-
-- Basic programming concepts
-- Number processing
-- Divisibility and prime numbers
-- One-dimensional arrays (vectors)
-- Matrices
-- Sorting and searching algorithms
-- Functions and procedures
-- Character strings
-- BAC exam examples and solutions
-
-## Repository Structure
-
-Each directory covers a specific programming topic and contains individual C++ implementations.
-
-## Purpose
-
-The goal is to provide a free, accessible and well-organized learning resource for students preparing for the Informatics Baccalaureate exam.
-
-## Language
-
-- C++
-- Romanian explanations and comments
-
-## Contributions
-
-Suggestions, corrections and improvements are welcome!
-
----
-
-Created as an educational open-source project.
+Materialele vor fi completate treptat. Contribuțiile cu explicații clare și soluții verificate sunt binevenite.
