@@ -11,7 +11,11 @@ export default function MainLayout({ children }: MainLayoutProps) {
         <a className="brand" href="#">
           BAC Informatică
         </a>
-        <span>Resurse de învățare</span>
+        <nav className="site-nav" aria-label="Navigare principală">
+          <a href="#">Acasă</a>
+          <a href="#mate-info">Mate-Info</a>
+          <a href="#stiinte-ale-naturii">Științe ale naturii</a>
+        </nav>
       </header>
       {children}
       <footer className="site-footer">
